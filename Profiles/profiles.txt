@@ -1,1 +1,47 @@
+Name of the Student:Undralla Sirisha
+Learning Track:Developer
+Project Name:CRM Application For Schools/Colleges - (DEV)
+Trailhead Project:https://www.salesforce.com/trailblazer/sirishaundralla0544
+Developer Org Username:sirishaundralla@gdctirupati.com
+Developer Org Password:Gayatri@123
+Position:Team Leader
 
+Name of the Student:mekalathurignanaprasanna
+Learning Track:developer
+Project Name:CRM Application For Schools/Colleges - (DEV)
+Trailhead Project:https://www.salesforce.com/trailblazer/gnanaprasannamekalathuri
+Developer Org Username:mekalathurignanaprasanna@gdctirupathi.com
+Developer Org Password:Gayatri@123
+Position:team Member
+
+Name of the Student:Gendeti Deepika
+Learning Track:developer
+Project Name:CRM Application For Schools/Colleges - (DEV)
+Trailhead Project:https://www.salesforce.com/trailblazer/deepikagendeti
+Developer Org Username:deepikagendeti@gdctirupati.com
+Developer Org Password:Gayatri@123
+Position:Team Member
+
+Name of the Student:
+Learning Track:developer
+Project Name:CRM Application For Schools/Colleges - (DEV)
+Trailhead Project:
+Developer Org Username:
+Developer Org Password:
+Position:
+
+Name of the Student:
+Learning Track:developer
+Project Name:CRM Application For Schools/Colleges - (DEV)
+Trailhead Project:
+Developer Org Username:
+Developer Org Password:
+Position:
+
+Name of the Student:
+Learning Track:developer
+Project Name:CRM Application For Schools/Colleges - (DEV)
+Trailhead Project:
+Developer Org Username:
+Developer Org Password:
+Position:
