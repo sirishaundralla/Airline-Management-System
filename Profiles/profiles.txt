@@ -1,6 +1,6 @@
 Name of the Student:Undralla Sirisha
 Learning Track:Developer
-Project Name:CRM Application For Schools/Colleges - (DEV)
+Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/sirishaundralla0544
 Developer Org Username:sirishaundralla@gdctirupati.com
 Developer Org Password:Gayatri@123
@@ -8,7 +8,7 @@ Position:Team Leader
 
 Name of the Student:Mekalathuri Gnanaprasanna
 Learning Track:Developer
-Project Name:CRM Application For Schools/Colleges - (DEV)
+Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/gnanaprasannamekalathuri
 Developer Org Username:mekalathurignanaprasanna@gdctirupathi.com
 Developer Org Password:Gayatri@123
@@ -16,7 +16,7 @@ Position:Team Member
 
 Name of the Student:Gendeti Deepika
 Learning Track:Developer
-Project Name:CRM Application For Schools/Colleges - (DEV)
+Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/deepikagendeti
 Developer Org Username:deepikagendeti@gdctirupati.com
 Developer Org Password:Gayatri@123
@@ -24,7 +24,7 @@ Position:Team Member
 
 Name of the Student:Vulava Vijayakumari
 Learning Track:Developer
-Project Name:CRM Application For Schools/Colleges - (DEV)
+Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/vijayakumarivulava
 Developer Org Username:vijayakumari@gdctirupati.com
 Developer Org Password:Gayatri@123
@@ -32,7 +32,7 @@ Position:Team Member
 
 Name of the Student:Alluri Sonali
 Learning Track:Developer
-Project Name:CRM Application For Schools/Colleges - (DEV)
+Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/sonalialluri7635
 Developer Org Username: alluri.sonali@gdctirupati.com
 Developer Org Password:Gayatri@123
