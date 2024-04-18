@@ -10,8 +10,8 @@ Name of the Student:Mekalathuri Gnanaprasanna
 Learning Track:Developer
 Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/gnanaprasannamekalathuri
-Developer Org Username:mekalathurignanaprasanna@gdctirupathi.com
-Developer Org Password:Gayatri@123
+Developer Org Username:mekalathurignanaprasanna@gdcproject77.com
+Developer Org Password:Gayatri@12271
 Position:Team Member
 
 Name of the Student:Gendeti Deepika
@@ -34,8 +34,8 @@ Name of the Student:Alluri Sonali
 Learning Track:Developer
 Project Name:Airline Management System - (DEV)
 Trailhead Project:https://www.salesforce.com/trailblazer/sonalialluri7635
-Developer Org Username: alluri.sonali@gdctirupati.com
-Developer Org Password:Gayatri@123
+Developer Org Username: alluri.sonali77@gmail.com
+Developer Org Password:Gayatri@12271
 Position:Team Member
 
 
